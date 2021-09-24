@@ -1,0 +1,6 @@
+[submodule "scull-dev"]
+	path = scull-dev
+	url = https://github.com/gggh000/scull-dev
+[submodule "cmnLib3"]
+	path = cmnLib3
+	url = https://github.com/gggh000/cmnLib3
